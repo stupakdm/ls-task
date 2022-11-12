@@ -18,3 +18,4 @@
   - ./ls -{флаги} {директория}
 
 Пример программы: ./ls -lhat .
+![alt text]([http://url/to/img.png](https://github.com/stupakdm/ls-task/blob/main/ls%20example.JPG))
