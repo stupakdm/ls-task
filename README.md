@@ -17,6 +17,6 @@
   - make
   - ./ls -{флаги} {директория}
 
-# Пример программы: ./ls -lhat .
+## Пример программы: ./ls -lhat .
 
 ![Image alt](https://github.com/stupakdm/ls-task/blob/main/ls%20example.JPG)
